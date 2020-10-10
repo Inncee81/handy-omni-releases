@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  play funscripts on most websites
 // @author       You
-// @match        https://*/*
-// @match        http://*/*
+// @match        https://*.pornhub.com/*
+// @match        http://*.pornhub.com/*
 // @inject-into  auto
 // @grant        GM_getValue
 // @grant        GM_setValue
