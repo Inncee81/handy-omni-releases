@@ -6,6 +6,10 @@
 // @author       You
 // @match        https://*.pornhub.com/*
 // @match        http://*.pornhub.com/*
+// @match        https://*.youporn.com/*
+// @match        http://*.youporn.com/*
+// @match        https://*.spankbang.com/*
+// @match        http://*.spankbang.com/*
 // @inject-into  auto
 // @grant        GM_getValue
 // @grant        GM_setValue
